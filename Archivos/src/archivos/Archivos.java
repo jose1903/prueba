@@ -10,6 +10,7 @@ public class Archivos
  public static int menu()
     { 
       int opcion = 0;
+      // nuevo cambio
 
       do{
           opcion = Integer.parseInt(JOptionPane.showInputDialog("=== IMPLEMENTACIÓN DE ARCHIVOS - OPCIÓN DEL MENÚ ===\n\n" +"1. Guardar Nombres en el Archivo \n"+"2. Listar los Nombres del Archivo \n"+"3. Cantidad de Nombres Guardados\n"+"4. Informacion General del Archivo \n"+"5. Salir"+"\n \n Seleccione una opcion del 1 al 5"));
