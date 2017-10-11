@@ -22,7 +22,7 @@ public class LeerEscribirArchivo
     { 
         rutaArchivo = nom;
     } 
-    
+    // cambio hecho
     
     public String getRutaArchivo() { 
        return rutaArchivo;
